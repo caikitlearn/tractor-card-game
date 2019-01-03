@@ -1,1 +1,3 @@
-# tractor-card-game
+# Tractor Card Game
+
+slowly making progress
